@@ -1,0 +1,30 @@
+.navbar-logo-img{
+	position: relative;
+    width: 55px;
+    left: 0px;
+    background-size: contain;
+}
+
+.background-color-container {
+	background-color: #FF8C69;
+}
+
+.image-intro{
+	width: 50em;
+	height: 100em;
+}
+
+.nav-text {
+	color: #000000; 
+}
+
+.jumbotro-intro{
+  min-height: 650px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.jumbotron {
+    min-height: ;
+}
